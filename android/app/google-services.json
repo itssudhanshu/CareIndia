@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "375714776605",
+    "firebase_url": "https://careindia-ebaa7.firebaseio.com",
+    "project_id": "careindia-ebaa7",
+    "storage_bucket": "careindia-ebaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375714776605:android:014068f5c3d5de34e268f4",
+        "android_client_info": {
+          "package_name": "com.care.CareIndia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375714776605-u8rg3lc2qk5vn4c506er0di80hoco898.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHa995N75yNRc90yDUtdo8VhVswtuRO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375714776605-u8rg3lc2qk5vn4c506er0di80hoco898.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375714776605:android:fef08fd450ddd250e268f4",
+        "android_client_info": {
+          "package_name": "com.sudhanshu.covid19_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375714776605-u8rg3lc2qk5vn4c506er0di80hoco898.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqHa995N75yNRc90yDUtdo8VhVswtuRO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375714776605-u8rg3lc2qk5vn4c506er0di80hoco898.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8046768523927143~3102482620"
+    }
+  ],
+  "configuration_version": "1"
+}
