@@ -1,16 +1,13 @@
 # CareIndia
 
-A new Flutter project.
+This app keeps track of the Real-Time(updates in every 10 mins) Spread of Covid19 Pandemic, specifically in India with some Global Stats. It provides Visual Graphical implementation of COVID Data and Live News from all over India.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Deployment
 
-A few resources to get you started if this is your first Flutter project:
+Add additional notes about how to deploy this on a live system
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## License
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
