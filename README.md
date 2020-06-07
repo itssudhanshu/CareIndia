@@ -2,6 +2,8 @@
 
 This app keeps track of the Real-Time(updates in every 10 mins) Spread of Covid19 Pandemic, specifically in India with some Global Stats. It provides Visual Graphical implementation of COVID Data and Live News from all over India.
 
+## Screenshots
+![alt text](https://github.com/itssudhanshu/CareIndia/blob/master/tia1166813629.png?raw=true)
 
 ## Deployment
 
