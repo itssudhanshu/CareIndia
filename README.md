@@ -13,10 +13,16 @@ I have developed an android application "CareIndia" to keep track of COVID-19 Pa
 
 I have added About Us(FAQ Section) in case you want to know more.  
 
+<p align="center"> 
+  <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download App-CareIndia-blue.svg?style=for-the-badge">
+  </a> 
+</p>
 
 ## Screenshots
 
 <img src="Screenshots/tia1166813629.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1620771702.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1682729890.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1980716158.png" height="300" width="200"><img src="Screenshots/tia757740049.png" height="300" width="200" hspace="15"><img src="Screenshots/tia2037814491.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1660536856.png" height="300" width="200">
+
 
 ## Integrated API's
 
@@ -26,8 +32,11 @@ I have added About Us(FAQ Section) in case you want to know more.
 ## Deployment
 
 I am not able to push this application on Google Playstore because of their new policy "Apps referencing COVID-19, or related terms, in any form will only be approved for distribution on Google Play if they are published, commissioned, or authorized by official government entities or public health organizations."  
-For the above reason I'm sharing the Apk Link:  
-<a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">CareIndia_v1.0.0_Light.apk</a>  
+For the above reason I'm sharing the Apk Link:   
+
+ <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
+    <img src="https://img.shields.io/badge/Download App-CareIndia-blue.svg?style=for-the-badge">
+  </a>  
 
 <h3>Building</h3>
 
