@@ -1,3 +1,4 @@
+[![GitHub](https://img.shields.io/github/license/itssudhanshu/CareIndia?style=flat-square)](LICENSE.md)    [![GitHub stars](https://img.shields.io/github/stars/itssudhanshu/CareIndia?style=social)](https://github.com/itssudhanshu/CareIndia/stargazers)      [![GitHub followers](https://img.shields.io/github/followers/itssudhanshu?style=social)](https://github.com/itssudhanshu?tab=followers)
 <p align="center">
   <img src="https://github.com/itssudhanshu/CareIndia/blob/master/assets/icons/protection.png" width="150">
 </p>
