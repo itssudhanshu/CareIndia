@@ -43,7 +43,7 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
     - [Documentation](#documentation)
     - [Testing](#testing)
   - [Design](#design)
-  - [Integrated API's](#integrated-api)
+  - [Integrated API's](#integrated-apis)
   - [Marketing and Analytics](#marketing-and-analytics)
   - [Other Tools](#other-tools)
   
