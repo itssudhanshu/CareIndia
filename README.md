@@ -146,7 +146,7 @@ If you have a connected device or emulator you can run and deploy the app with `
 
 | 👤 **Sudhanshu Kushwaha**                                   | 👤 **Nirbhay Singh Naruka**                                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
-|Github: [@itssudhanshu](https://github.com/itssudhanshu)  | Github: [@nirbhaysingh](https://github.com/nirhbaysingh)   |
+|Github: [@itssudhanshu](https://github.com/itssudhanshu)  | Github: [@nirbhaynaruka](https://github.com/nirbhaynaruka)   |
 |LinkedIn: [@sudhanshu0299](https://linkedin.com/in/sudhanshu0299)  | LinkedIn: [@nirbhay13](https://www.linkedin.com/in/nirbhay13/)|
 
 
