@@ -2,10 +2,11 @@
 <p align="center">
   <img src="https://github.com/itssudhanshu/CareIndia/blob/master/assets/icons/protection.png" width="150">
 </p>
+<p align="center">(Android/iOS)</p>
 <h1 align="center">CareIndia</h1>
 <h3 align="center">Stay Home and Be a Warrior</h3>
 
-I have developed an android application "CareIndia" to keep track of COVID-19 Pandemic especially in India and stay updated with some useful features like-  
+I have developed an android application "**CareIndia**" to keep track of COVID-19 Pandemic especially in India and stay updated with some useful features like-  
 **• Daily Live Feeds-** Daily Feeds about cases in different states.  
 **• Resources-** Get the Helpline details for all the State and City.   
 **• Country Stats-** Individual countries stats with Pie Chart Representation.  
@@ -39,7 +40,7 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
   - [Methodologies and core values](#methodologies-and-core-values)
   - [Application Development](#application-development)
   - [Development Tools](#development-tools)
-    - [Tools](#tools)
+    - [Tools](#tools-used)
     - [Documentation](#documentation)
     - [Testing](#testing)
   - [Design](#design)
@@ -67,10 +68,18 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 
 ## Development Tools
 
-### Tools
+### Tools Used
 
-* [Flutter](https://flutter.dev/) - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-* [Firebase](https://firebase.google.com/) - A comprehensive app development platform 
+* [Flutter](https://flutter.dev/) 
+  - Flutter is a framework for **Cross-Platform Development** on which we can make applications for both iOS and Android.
+  - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+* [Firebase](https://firebase.google.com/) - A comprehensive app development platform support system in [Google Cloud Platform](https://cloud.google.com/).
+  - [Firebase - Authentication](https://firebase.google.com/products/auth) - Authenticate users simply and securely.
+  - [Firebase - Crashlytics](https://firebase.google.com/products/crashlytics) - Prioritize and fix issues with powerful, realtime crash reporting.
+  - [Firebase - Performance Monitoring](https://firebase.google.com/products/performance) - Gain insight into your app's performance.
+  - [Firebase - Remote Config](https://firebase.google.com/products/remote-config) - Modify your app without deploying a new version.
+  - [Firebase - Predictions](https://firebase.google.com/products/predictions) - Smart user segmentation based on predicted behavior.
+  - [Firebase - App Distribution](https://firebase.google.com/products/app-distribution) - Distribute pre-release versions of your app to your trusted testers.
 
 ### Documentation
 
@@ -80,7 +89,7 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 ### Testing 
 
 * [Flutter Testing](https://flutter.dev/docs/testing) - Automated tests help ensure that your app performs correctly before you publish it, while retaining your feature and bug fix velocity.
-* [Firebase - TestLab](https://firebase.google.com/docs/test-lab) - Test your app on devices hosted in a Google data center.
+* [Firebase - TestLab](https://firebase.google.com/products/test-lab) - Test your app on devices hosted in a Google data center.
 
 ---
 
