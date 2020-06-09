@@ -143,7 +143,6 @@ If you have a connected device or emulator you can run and deploy the app with `
     
 ## Contributors
 
-
 | 👤 **Sudhanshu Kushwaha**                                   | 👤 **Nirbhay Singh Naruka**                                              |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
 |Github: [@itssudhanshu](https://github.com/itssudhanshu)  | Github: [@nirbhaynaruka](https://github.com/nirbhaynaruka)   |
