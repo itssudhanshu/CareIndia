@@ -20,11 +20,14 @@ I have added **About Us(FAQ Section)** in case you want to know more.
   </a> 
 </p>
 
+---
+
 ## Screenshots
 
 <img src="Screenshots/tia1166813629.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1620771702.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1682729890.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1980716158.png" height="300" width="200"><img src="Screenshots/tia757740049.png" height="300" width="200" hspace="15"><img src="Screenshots/tia2037814491.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1660536856.png" height="300" width="200">
 
 
+---
 
 # My Tech stack and tools
 
@@ -44,6 +47,7 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
   - [Marketing and Analytics](#marketing-and-analytics)
   - [Other Tools](#other-tools)
   
+---
   
 ## Methodologies and core values
 
@@ -51,6 +55,8 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 * Devops
 * Continuous Delivery
 * "Operate what you build" - [see](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
+
+---
 
 ## Application Development
 
@@ -84,10 +90,14 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 * [Google Fonts](https://fonts.google.com/) - Google Fonts is a library of 991 free licensed font families.
 * [Iconfinder](https://www.iconfinder.com/) - 2,775,000+ free and premium vector icons. SVG, PNG, AI, CSH and PNG format.
 
+---
+
 ## Integrated API's
 
 * [COVID19-India API](https://api.covid19india.org/) - All India Data  
 * [NOVELCovid/API](https://corona.lmao.ninja/docs/) - World and Countries Data
+
+---
 
 ## Marketing and Analytics
 
@@ -95,11 +105,13 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 * [Google AdMob](https://admob.google.com/home/)
 * [Google AdSense](https://www.google.com/intl/en_in/adsense/start/#/?modal_active=none)
 
+---
+
 ## Other Tools 
 
 * [Syncfusion](https://www.syncfusion.com/flutter-widgets) - Flutter Widgets - Fast, Fluid, and Flexible Widgets
 
-
+---
 
 ## Deployment
 
@@ -116,8 +128,10 @@ Android Release: `flutter build apk`
 
 Android (arm64-v8a)/(armeabi-v7a): `flutter build apk --split-per-abi`  
 
-If you have a connected device or emulator you can run and deploy the app with `flutter run`    
+If you have a connected device or emulator you can run and deploy the app with `flutter run` 
 
+---
+    
 ## Contributors
 
 
@@ -131,6 +145,7 @@ If you have a connected device or emulator you can run and deploy the app with `
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
+---
 
 ## License
 
