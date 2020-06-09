@@ -6,7 +6,7 @@
 <h1 align="center">CareIndia</h1>
 <h3 align="center">Stay Home and Be a Warrior</h3>
 
-I have developed an android application "**CareIndia**" to keep track of COVID-19 Pandemic especially in India and stay updated with some useful features like-  
+I have developed an application "**CareIndia**" to keep track of COVID-19 Pandemic especially in India and stay updated with some useful features like-  
 **• Daily Live Feeds-** Daily Feeds about cases in different states.  
 **• Resources-** Get the Helpline details for all the State and City.   
 **• Country Stats-** Individual countries stats with Pie Chart Representation.  
