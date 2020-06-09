@@ -6,13 +6,13 @@
 <h3 align="center">Stay Home and Be a Warrior</h3>
 
 I have developed an android application "CareIndia" to keep track of COVID-19 Pandemic especially in India and stay updated with some useful features like-  
-• Daily Live Feeds- Daily Feeds about cases in different states.  
-• Resources- Get the Helpline details for all the State and City.   
-• Country Stats- Individual countries stats with Pie Chart Representation.  
-• Statewise Stats & Graphical Representation- Get all details of cases state-wise with graphical representation for better understanding.  
-• World and Countries Stats- Get updates of World and countries cases.  
+**• Daily Live Feeds-** Daily Feeds about cases in different states.  
+**• Resources-** Get the Helpline details for all the State and City.   
+**• Country Stats-** Individual countries stats with Pie Chart Representation.  
+**• Statewise Stats & Graphical Representation-** Get all details of cases state-wise with graphical representation for better understanding.  
+**• World and Countries Stats-** Get updates of World and countries cases.  
 
-I have added About Us(FAQ Section) in case you want to know more.  
+I have added **About Us(FAQ Section)** in case you want to know more.  
 
 <p align="center"> 
   <a href="https://github.com/itssudhanshu/CareIndia/blob/master/CareIndia_v1.0.0_Light.apk?raw=true">
@@ -29,6 +29,7 @@ I have added About Us(FAQ Section) in case you want to know more.
 
 [COVID19-India API](https://api.covid19india.org/) (All India Data)  
 [NOVELCovid/API](https://corona.lmao.ninja/docs/) (World and Countries Data)
+
 
 ## Deployment
 
