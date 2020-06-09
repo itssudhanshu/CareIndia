@@ -25,10 +25,80 @@ I have added **About Us(FAQ Section)** in case you want to know more.
 <img src="Screenshots/tia1166813629.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1620771702.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1682729890.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1980716158.png" height="300" width="200"><img src="Screenshots/tia757740049.png" height="300" width="200" hspace="15"><img src="Screenshots/tia2037814491.png" height="300" width="200" hspace="15"><img src="Screenshots/tia1660536856.png" height="300" width="200">
 
 
+
+# My Tech stack and tools
+
+In this repository you can find a list of tools, programming language and frameworks that I would use to build any kind of project.
+
+Some of the tools listed I'm gaining experience like Flutter, Firebase etc through reading blogs and tutorials that made me think it would be a great choice for some type of project like this App.
+
+- [My Tech stack and tools](#my-tech-stack-and-tools)
+  - [Methodologies and core values](#methodologies-and-core-values)
+  - [Application Development](#application-development)
+  - [Development Tools](#development-tools)
+    - [Tools](#tools)
+    - [Documentation](#documentation)
+    - [Testing](#testing)
+  - [Design](#design)
+  - [Integrated API's](#integrated-api)
+  - [Marketing and Analytics](#marketing-and-analytics)
+  - [Other Tools](#other-tools)
+  
+  
+## Methodologies and core values
+
+* [Modern Agile](http://modernagile.org/)
+* Devops
+* Continuous Delivery
+* "Operate what you build" - [see](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
+
+## Application Development
+
+* **Programming Language** - Dart, Java, Kotlin
+* **Development Tool** - Flutter
+
+---
+
+## Development Tools
+
+### Tools
+
+* [Flutter](https://flutter.dev/) - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+* [Firebase](https://firebase.google.com/) - A comprehensive app development platform 
+
+### Documentation
+
+* [Flutter - Docs](https://flutter.dev/docs) 
+* [Firebase - Docs](https://firebase.google.com/docs)
+
+### Testing 
+
+* [Flutter Testing](https://flutter.dev/docs/testing) - Automated tests help ensure that your app performs correctly before you publish it, while retaining your feature and bug fix velocity.
+* [Firebase - TestLab](https://firebase.google.com/docs/test-lab) - Test your app on devices hosted in a Google data center.
+
+---
+
+## Design
+
+* [Flutter - Cookbook](https://flutter.dev/docs/cookbook) 
+* [Google Fonts](https://fonts.google.com/) - Google Fonts is a library of 991 free licensed font families.
+* [Iconfinder](https://www.iconfinder.com/) - 2,775,000+ free and premium vector icons. SVG, PNG, AI, CSH and PNG format.
+
 ## Integrated API's
 
-[COVID19-India API](https://api.covid19india.org/) (All India Data)  
-[NOVELCovid/API](https://corona.lmao.ninja/docs/) (World and Countries Data)
+* [COVID19-India API](https://api.covid19india.org/) - All India Data  
+* [NOVELCovid/API](https://corona.lmao.ninja/docs/) - World and Countries Data
+
+## Marketing and Analytics
+
+* [Google Analytics](https://analytics.google.com/analytics/web/#/)
+* [Google AdMob](https://admob.google.com/home/)
+* [Google AdSense](https://www.google.com/intl/en_in/adsense/start/#/?modal_active=none)
+
+## Other Tools 
+
+* [Syncfusion](https://www.syncfusion.com/flutter-widgets) - Flutter Widgets - Fast, Fluid, and Flexible Widgets
+
 
 
 ## Deployment
