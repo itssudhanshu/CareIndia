@@ -95,19 +95,19 @@ flutter:
   fonts:
     - family: Poppins
       fonts:
-        - asset: assets\fonts\Poppins\Poppins-Regular.ttf
-        - asset: assets\fonts\Poppins\Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
           weight: 600
-        - asset: assets\fonts\Poppins\Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
           weight: 700
 
     - family: GothamBook
       fonts:
-        - asset: assets\fonts\GothamBook.ttf
+        - asset: assets/fonts/GothamBook.ttf
 
     - family: GothamMedium_0
       fonts:
-        - asset: assets\fonts\GothamMedium_0.ttf
+        - asset: assets/fonts/GothamMedium_0.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
